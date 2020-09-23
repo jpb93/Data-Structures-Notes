@@ -1,0 +1,14 @@
+7.1 Introduction
+
+-Array objects are data structures that are made up of items of the same type
+-Arrays have a fixed length. Dynamic resizing requires us to use the ArrayList class
+
+7.2 Arrays
+
+-Group of variables usually referred to as elements
+-Arrays are objects and therefore considered reference types, meaning our arrays 
+are really references to an Array object in memory
+-Position in the array is called the index and starts at 0 and must be a non-negative
+integer
+
+7.3 Creating Arrays
